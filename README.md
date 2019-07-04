@@ -1,2 +1,2 @@
 # python
-python for gujinfotech
+python for Guj Infotech
